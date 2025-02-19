@@ -1,0 +1,6 @@
+\title{X}
+\import{macros}
+\example{000x}{000y}
+
+% What is X an example of?
+\query\datalog{?X -: {\rel/example @{000x} ?X}}
