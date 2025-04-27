@@ -1,5 +1,0 @@
-\title{Y}
-\import{macros}
-
-% What is an example of Y?
-\query\datalog{?X -: {\rel/example ?X @{000y}}}
